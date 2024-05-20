@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.orient.otc.quote.mapper.TradeCloseMngMapper">
+
+    <select id="selectSettlementConfirmBook" resultType="org.orient.otc.quote.vo.trade.SettlementConfirmBookVO"
+            parameterType="org.orient.otc.quote.dto.trade.TradeSettlementConfirmBookQueryDTO">
+        select
+        tcm.id
+        , tcm.closeDate
+        , tcm.closeVolume
+        , tcm.closeEntryPrice
+        , tcm.closePrice
+        , tcm.closeTotalAmount
+        , tcm.profitLoss
+        , tm.tradeCode
+        , tm.underlyingCode
+        , tm.optionType
+        , tm.tradeDate
+        , tm.maturityDate
+        , tm.optionCombType
+        , tm.clientId
+        , tm.assetId
+        , tm.traderId
+        , tm.creatorId as tradeAddId
+        , tm.createTime as tradeAddTime
+        , tm.tradeState
+        , tcr.creatorId
+        , tcr.createTime
+        , tcd.url as settlementFilePath
+        , tcr2.contractCode as tradeConfirmCode
+        , tcr.contractCode as settlementConfirmCode
+        from trade_close_mng tcm
+        inner join trade_mng tm on tcm.tradeCode = tm.tradeCode
+        left join trade_contract_rel tcr2 on tcr2.tradeId = tm.id and tcm.tradeCode=tcr2.tradeCode and tcr.fileType='tradeConfirm'
+        left join trade_contract_rel tcr on tcr.tradeId = tcm.id and tcm.tradeCode=tcr.tradeCode and tcr.fileType='settlementConfirm'
+        left join trade_contract_document tcd on tcr.fileId = tcd.id
+        where tcm.isDeleted = 0
+        and tm.isDeleted = 0
+        and (tcr.isDeleted=0 or tcr.isDeleted is null)
+        and (tcd.isDeleted=0 or tcd.isDeleted is null)
+        and (tcr2.isDeleted=0 or tcr2.isDeleted is null)
+        <if test='dto.tradeCode!=null and dto.tradeCode!=""'>
+            and tm.tradeCode = #{dto.tradeCode}
+        </if>
+        <!-- -->
+        <if test='dto.assetIdList!=null and dto.assetIdList.size()>0'>
+            and tm.assetId in
+            <foreach item='item' index='index' collection='dto.assetIdList' open='(' separator=',' close=')'>
+                #{item}
+            </foreach>
+        </if>
+        <if test='dto.assetGroupList!=null and dto.assetGroupList.size()>0'>
+            and tm.assetId in
+            <foreach item='item' index='index' collection='dto.assetGroupList' open='(' separator=',' close=')'>
+                #{item}
+            </foreach>
+        </if>
+        <if test='dto.clientIdList!=null and dto.clientIdList.size()>0'>
+            and tm.clientId not in
+            <foreach item='item' index='index' collection='dto.clientIdList' open='(' separator=',' close=')'>
+                #{item}
+            </foreach>
+        </if>
+        <if test='dto.traderIdList!=null and dto.traderIdList.size()>0'>
+            and tm.traderId in
+            <foreach item='item' index='index' collection='dto.traderIdList' open='(' separator=',' close=')'>
+                #{item}
+            </foreach>
+        </if>
+        <if test='dto.optionTypeList!=null and dto.optionTypeList.size()>0'>
+            and tm.optionType in
+            <foreach item='item' index='index' collection='dto.optionTypeList' open='(' separator=',' close=')'>
+                #{item}
+            </foreach>
+        </if>
+        <if test='dto.underlyingCodeList!=null and dto.underlyingCodeList.size()>0'>
+            and tm.underlyingCode in
+            <foreach item='item' index='index' collection='dto.underlyingCodeList' open='(' separator=',' close=')'>
+                #{item}
+            </foreach>
+        </if>
+        <if test='dto.buyOrSell != null '>
+            and tm.buyOrSell = #{dto.buyOrSell}
+        </if>
+        <if test='dto.startTradeDate!=null'>
+            and tm.tradeDate &gt;= #{dto.startTradeDate}
+        </if>
+        <if test='dto.endTradeDate!=null'>
+            and tm.tradeDate &lt;= #{dto.endTradeDate}
+        </if>
+        <if test='dto.startMaturityDate!=null'>
+            and tm.maturityDate &gt;= #{dto.startMaturityDate}
+        </if>
+        <if test='dto.endMaturityDate!=null'>
+            and tm.maturityDate &lt;= #{dto.endMaturityDate}
+        </if>
+        <if test='dto.startCloseDate!=null'>
+            and tcm.closeDate &gt;= #{dto.startCloseDate}
+        </if>
+        <if test='dto.endCloseDate!=null'>
+            and tcm.closeDate &lt;= #{dto.endCloseDate}
+        </if>
+        order by tcm.createTime desc
+    </select>
+</mapper>

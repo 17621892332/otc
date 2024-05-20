@@ -1,0 +1,131 @@
+version: '3'
+networks:
+  otc_net:
+    external: true
+services:
+  redis:
+    image: redis:7
+    container_name: redis
+    command: redis-server --appendonly yes
+    volumes:
+      - /otc-server/env/redis/data:/data #数据文件挂载
+    ports:
+      - "6379:6379"
+  nginx:
+    image: nginx:1.22
+    container_name: nginx
+    volumes:
+      - /otc-server/env/nginx/conf:/etc/nginx #配置文件挂载
+      - /otc-server/env/nginx/html:/usr/share/nginx/html #静态资源根目录挂载
+      - /otc-server/env/nginx/log:/var/log/nginx #日志文件挂载
+    ports:
+      - "8080:8080"
+  elasticsearch:
+    image: elasticsearch:7.17.3
+    container_name: elasticsearch
+    user: root
+    networks:
+      - otc_net
+    environment:
+      - "cluster.name=elasticsearch" #设置集群名称为elasticsearch
+      - "discovery.type=single-node" #以单一节点模式启动
+      - "ingest.geoip.downloader.enabled=false" #关闭geoip数据库的更新
+      - "ES_JAVA_OPTS=-Xms512m -Xmx1024m" #设置使用jvm内存大小
+    volumes:
+      - /otc-server/env/elasticsearch/plugins:/usr/share/elasticsearch/plugins #插件文件挂载
+      - /otc-server/env/elasticsearch/data:/usr/share/elasticsearch/data #数据文件挂载
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+  logstash:
+    image: logstash:7.17.3
+    container_name: logstash
+    networks:
+      - otc_net
+    environment:
+      - TZ=Asia/Shanghai
+    volumes:
+      - /otc-server/env/logstash/logstash.conf:/usr/share/logstash/pipeline/logstash.conf #挂载logstash的配置文件
+    depends_on:
+      - elasticsearch #kibana在elasticsearch启动之后再启动
+    links:
+      - elasticsearch:es #可以用es这个域名访问elasticsearch服务
+    ports:
+      - "21021:21021"
+  kibana:
+    image: kibana:7.17.3
+    container_name: kibana
+    networks:
+      - otc_net
+    links:
+      - elasticsearch:es #可以用es这个域名访问elasticsearch服务
+    depends_on:
+      - elasticsearch #kibana在elasticsearch启动之后再启动
+    volumes:
+      - /otc-server/env/kibana/config:/usr/share/kibana/config #挂载logstash的配置文件
+    environment:
+      - "elasticsearch.hosts=http://es:9200" #设置访问elasticsearch的地址
+    ports:
+      - 5601:5601
+  #Service for nameserver
+  namesrv:
+    image: apache/rocketmq:5.1.0
+    container_name: rocketmq-nameserver
+    networks:
+      - otc_net
+    ports:
+      - "9876:9876"
+    environment:
+      - JAVA_OPT_EXT=-server -Xms256m -Xmx256m -Xmn256m
+    volumes:
+      - /otc-server/env/rocketmq/data/namesrv/logs:/root/logs
+    command: sh mqnamesrv
+  #Service for broker
+  broker:
+    image: apache/rocketmq:5.1.0
+    container_name: rocketmq-broker
+    networks:
+      - otc_net
+    links:
+      - namesrv
+    depends_on:
+      - namesrv
+    ports:
+      - "10909:10909"
+      - "10911:10911"
+      - "10912:10912"
+    environment:
+      - NAMESRV_ADDR=192.168.64.232:9876
+      - JAVA_OPT_EXT=-server -Xms512m -Xmx512m -Xmn256m
+    volumes:
+      - /otc-server/env/rocketmq/data/broker/logs:/home/rocketmq/rocketmq-5.1.0/logs
+      - /otc-server/env/rocketmq/data/broker/store:/home/rocketmq/rocketmq-5.1.0/store
+      - /otc-server/env/rocketmq/etc/broker/broker.conf:/home/rocketmq/rocketmq-5.1.0/conf/broker.conf
+    command: sh mqbroker -n 192.168.64.232:9876
+  #Service for rocketmq-dashboard
+  dashboard:
+    image: apacherocketmq/rocketmq-dashboard:latest
+    container_name: rocketmq-dashboard
+    networks:
+      - otc_net
+    ports:
+      - "8086:8080"
+    links:
+      - namesrv
+    depends_on:
+      - namesrv
+    environment:
+      - NAMESRV_ADDR=namesrv:9876
+  nacos-registry:
+    image: nacos/nacos-server:v2.1.0
+    container_name: nacos-registry
+    environment:
+      - "MODE=standalone"
+      - "SPRING_DATASOURCE_PLATFORM=mysql"
+      - MYSQL_SERVICE_HOST
+      - MYSQL_SERVICE_PORT
+      - MYSQL_SERVICE_DB_NAME
+      - MYSQL_SERVICE_USER
+      - MYSQL_SERVICE_PASSWORD
+    ports:
+      - "8807:8848"

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.orient.otc</groupId>
+        <artifactId>otc</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <groupId>org.orient.otc</groupId>
+    <artifactId>common</artifactId>
+    <name>common</name>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>common-core</module>
+        <module>common-cache</module>
+        <module>common-database</module>
+        <module>common-rocketmq</module>
+        <module>common-jni</module>
+        <module>common-security</module>
+        <module>common-sqllable</module>
+        <module>common-redispubsub</module>
+        <module>common-redisstream</module>
+        <module>common-dictionary</module>
+    </modules>
+    <dependencies>
+
+
+    </dependencies>
+</project>

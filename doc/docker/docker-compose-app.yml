@@ -1,0 +1,221 @@
+version: '3'
+networks:
+  otc_net:
+    external: true
+services:
+  otc-gateway:
+    image: otc/otc-gateway:latest
+    container_name: otc-gateway
+    ports:
+      - "8081:8081"
+    volumes:
+      - /otc-server/app/otc-gateway/logs:/work/logs
+      - /etc/timezone:/etc/timezone
+      - /etc/localtime:/etc/localtime
+    environment:
+      TZ:
+      NACOS_CONFIG_NAMESPACE:
+      NACOS_CONFIG_SERVER_ADDR:
+      SPRING_PROFILES_ACTIVE:
+    networks:
+      - otc_net
+    external_links:
+      - mysql:db #可以用db这个域名访问mysql服务
+      - nacos:nacos #可以用nacos-registry这个域名访问nacos服务
+  otc-client:
+    image: otc/otc-client:latest
+    container_name: otc-client
+    volumes:
+      - /otc-server/app/otc-client/logs:/work/logs
+      - /etc/timezone:/etc/timezone
+      - /etc/localtime:/etc/localtime
+    environment:
+      TZ:
+      NACOS_CONFIG_NAMESPACE:
+      NACOS_CONFIG_SERVER_ADDR:
+      SPRING_PROFILES_ACTIVE:
+    networks:
+      - otc_net
+    external_links:
+      - mysql:db #可以用db这个域名访问mysql服务
+      - nacos:nacos #可以用nacos-registry这个域名访问nacos服务
+  otc-dm:
+    image: otc/otc-dm:latest
+    container_name: otc-dm
+    volumes:
+      - /otc-server/app/otc-dm/logs:/work/logs
+      - /etc/timezone:/etc/timezone
+      - /etc/localtime:/etc/localtime
+    environment:
+      TZ:
+      NACOS_CONFIG_NAMESPACE:
+      NACOS_CONFIG_SERVER_ADDR:
+      SPRING_PROFILES_ACTIVE:
+    networks:
+      - otc_net
+    external_links:
+      - mysql:db #可以用db这个域名访问mysql服务
+      - nacos:nacos #可以用nacos-registry这个域名访问nacos服务
+  otc-market:
+    image: otc/otc-market:latest
+    container_name: otc-market
+    volumes:
+      - /otc-server/app/otc-market/logs:/work/logs
+      - /etc/timezone:/etc/timezone
+      - /etc/localtime:/etc/localtime
+    environment:
+      TZ:
+      NACOS_CONFIG_NAMESPACE:
+      NACOS_CONFIG_SERVER_ADDR:
+      SPRING_PROFILES_ACTIVE:
+    networks:
+      - otc_net
+    external_links:
+      - mysql:db #可以用db这个域名访问mysql服务
+      - nacos-registry:nacos-registry #可以用nacos-registry这个域名访问nacos服务
+  otc-netty:
+    image: otc/otc-netty:latest
+    container_name: otc-netty
+    volumes:
+      - /otc-server/app/otc-netty/logs:/work/logs
+      - /etc/timezone:/etc/timezone
+      - /etc/localtime:/etc/localtime
+    environment:
+      TZ:
+      NACOS_CONFIG_NAMESPACE:
+      NACOS_CONFIG_SERVER_ADDR:
+      SPRING_PROFILES_ACTIVE:
+    networks:
+      - otc_net
+    external_links:
+      - mysql:db #可以用db这个域名访问mysql服务
+      - nacos:nacos #可以用nacos-registry这个域名访问nacos服务
+  otc-quote:
+    image: otc/otc-quote:latest
+    container_name: otc-quote
+    volumes:
+      - /otc-server/app/otc-quote/logs:/work/logs
+      - /otc-server/app/otc-quote/so:/work/so
+      - /otc-server/app/otc-quote/template:/work/template
+      - /etc/timezone:/etc/timezone
+      - /etc/localtime:/etc/localtime
+    environment:
+      - TZ
+      - NACOS_CONFIG_NAMESPACE
+      - NACOS_CONFIG_SERVER_ADDR
+      - SPRING_PROFILES_ACTIVE
+      - 'IS_CACL_TRADE_POS=true'
+    networks:
+      - otc_net
+    external_links:
+      - mysql:db #可以用db这个域名访问mysql服务
+      - nacos:nacos #可以用nacos-registry这个域名访问nacos服务
+  otc-risk:
+    image: otc/otc-risk:latest
+    volumes:
+      - /otc-server/app/otc-risk/logs:/work/logs
+      - /otc-server/app/otc-risk/so:/work/so
+      - /etc/timezone:/etc/timezone
+      - /etc/localtime:/etc/localtime
+    environment:
+      - TZ
+      - NACOS_CONFIG_NAMESPACE
+      - NACOS_CONFIG_SERVER_ADDR
+      - SPRING_PROFILES_ACTIVE
+      - 'SPRING_APPLICATION_NAME=riskServer'
+      - 'IS_OPEN_CACU_RISK=true'
+    networks:
+      - otc_net
+    external_links:
+      - mysql:db #可以用db这个域名访问mysql服务
+      - nacos:nacos #可以用nacos-registry这个域名访问nacos服务
+    deploy:
+      replicas: 1
+  otc-system:
+    image: otc/otc-system:latest
+    container_name: otc-system
+    volumes:
+      - /otc-server/app/otc-system/logs:/work/logs
+      - /etc/timezone:/etc/timezone
+      - /etc/localtime:/etc/localtime
+    environment:
+      TZ:
+      NACOS_CONFIG_NAMESPACE:
+      NACOS_CONFIG_SERVER_ADDR:
+      SPRING_PROFILES_ACTIVE:
+    networks:
+      - otc_net
+    external_links:
+      - mysql:db #可以用db这个域名访问mysql服务
+      - nacos:nacos #可以用nacos-registry这个域名访问nacos服务
+  otc-user:
+    image: otc/otc-user:latest
+    container_name: otc-user
+    volumes:
+      - /otc-server/app/otc-user/logs:/work/logs
+      - /etc/timezone:/etc/timezone
+      - /etc/localtime:/etc/localtime
+    environment:
+      TZ:
+      NACOS_CONFIG_NAMESPACE:
+      NACOS_CONFIG_SERVER_ADDR:
+      SPRING_PROFILES_ACTIVE:
+    networks:
+      - otc_net
+    external_links:
+      - mysql:db #可以用db这个域名访问mysql服务
+      - nacos:nacos #可以用nacos-registry这个域名访问nacos服务
+  otc-yl:
+    image: otc/otc-yl:latest
+    depends_on:
+      - otc-xxl-job-admin #executor在job-admin启动之后再启动
+    volumes:
+      - /otc-server/app/otc-yl/logs:/work/logs
+      - /etc/timezone:/etc/timezone
+      - /etc/localtime:/etc/localtime
+    environment:
+      TZ:
+      NACOS_CONFIG_NAMESPACE:
+      NACOS_CONFIG_SERVER_ADDR:
+      SPRING_PROFILES_ACTIVE:
+    networks:
+      - otc_net
+    external_links:
+      - mysql:db #可以用db这个域名访问mysql服务
+      - nacos:nacos #可以用nacos-registry这个域名访问nacos服务
+  otc-xxl-job-admin:
+    image: otc/otc-xxl-job-admin:latest
+    ports:
+      - "15500:15500"
+    volumes:
+      - /otc-server/app/xxl-job-admin/logs:/work/logs
+      - /etc/timezone:/etc/timezone
+      - /etc/localtime:/etc/localtime
+    environment:
+      TZ:
+      NACOS_CONFIG_NAMESPACE:
+      NACOS_CONFIG_SERVER_ADDR:
+      SPRING_PROFILES_ACTIVE:
+    networks:
+      - otc_net
+    external_links:
+      - mysql:db #可以用db这个域名访问mysql服务
+      - nacos:nacos #可以用nacos-registry这个域名访问nacos服务
+  otc-xxl-job-executor:
+    image: otc/otc-xxl-job-executor:latest
+    depends_on:
+      - otc-xxl-job-admin #executor在job-admin启动之后再启动
+    volumes:
+      - /otc-server/app/xxl-job-executor/logs:/work/logs
+      - /etc/timezone:/etc/timezone
+      - /etc/localtime:/etc/localtime
+    environment:
+      TZ:
+      NACOS_CONFIG_NAMESPACE:
+      NACOS_CONFIG_SERVER_ADDR:
+      SPRING_PROFILES_ACTIVE:
+    networks:
+      - otc_net
+    external_links:
+      - mysql:db #可以用db这个域名访问mysql服务
+      - nacos:nacos #可以用nacos-registry这个域名访问nacos服务

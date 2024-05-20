@@ -1,0 +1,2078 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
+	<w:body>
+		<w:p w14:paraId="4570218A" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="004B6768">
+			<w:pPr>
+				<w:spacing w:before="11"/>
+				<w:ind w:right="30"/>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:sz w:val="32"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:sz w:val="32"/>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+				</w:rPr>
+				<w:t>中国证券期货市场衍生品交易确认书</w:t>
+			</w:r>
+		</w:p>
+
+		<w:p w14:paraId="42D685E8" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="00693340">
+			<w:pPr>
+				<w:pStyle w:val="a3"/>
+				<w:spacing w:before="12"/>
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+					<w:b/>
+					<w:sz w:val="25"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="3ADBECA6" w14:textId="336DE454" w:rsidR="00693340" w:rsidRDefault="004B6768" w:rsidP="00A26A7E">
+			<w:pPr>
+				<w:pStyle w:val="a3"/>
+				<w:jc w:val="center"/>
+				<w:tabs>
+					<w:tab w:val="left" w:pos="3840"/>
+					<w:tab w:val="left" w:pos="4439"/>
+				</w:tabs>
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+				</w:rPr>
+				<w:ind w:right="41"/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+				</w:rPr>
+				<w:t>甲方：</w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+					<w:u w:val="single"/>
+				</w:rPr>
+				<w:t>东证润和资本管理有限公司</w:t>
+			</w:r>
+			<w:r>
+				<w:tab/>
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+				</w:rPr>
+				<w:t>乙方：</w:t>
+			</w:r>
+			<w:r w:rsidR="00160ACC">
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+					<w:u w:val="single"/>
+				</w:rPr>
+				<w:t>${clientName}</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="22126E34" w14:textId="77777777" w:rsidR="00693340" w:rsidRPr="00BD0A1B" w:rsidRDefault="00693340" w:rsidP="00A805F1">
+			<w:pPr>
+				<w:pStyle w:val="a3"/>
+				<w:spacing w:before="6"/>
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="381A88D3" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="004B6768" w:rsidP="00EE2616">
+			<w:pPr>
+				<w:pStyle w:val="a3"/>
+				<w:spacing w:before="67" w:line="364" w:lineRule="auto"/>
+				<w:ind w:left="116" w:right="0" w:firstLine="480"/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:spacing w:val="-8"/>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+				</w:rPr>
+				<w:t>甲乙双方已签署《中国证券期货市场衍生品交易主协议》（以下简称“</w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:b/>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+				</w:rPr>
+				<w:t>主协议</w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+				</w:rPr>
+				<w:t>”）以及《中国证券期货市场衍生品交易主协议补充协议》（以下简称“</w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:b/>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+				</w:rPr>
+				<w:t>补充协议</w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+				</w:rPr>
+				<w:t>”）。本确认书构成主协议下的一份“</w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:b/>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+				</w:rPr>
+				<w:t>交易确认书</w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+					<w:spacing w:val="-4"/>
+				</w:rPr>
+				<w:t>”，除非本确认书另有规定，主协议和补充协议中的条款均适用于本确认书。在本确认书与主协议或补充协议出现不一致时，以本确认书的条款为准。</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="6CFFC883" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="004B6768" w:rsidP="00EE2616">
+			<w:pPr>
+				<w:pStyle w:val="a3"/>
+				<w:spacing w:before="3"/>
+				<w:ind w:left="596"/>
+				<w:jc w:val="both"/>
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+				</w:rPr>
+				<w:t>甲乙双方同意，本确认书对交易双方具有法律约束力。</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="6F7678F0" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="00693340">
+			<w:pPr>
+				<w:pStyle w:val="a3"/>
+				<w:rPr>
+					<w:sz w:val="25"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="2F0A8CEB" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="004B6768">
+			<w:pPr>
+				<w:pStyle w:val="1"/>
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+				</w:rPr>
+				<w:t>一、交易条款</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="42CCE56B" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="00693340">
+			<w:pPr>
+				<w:pStyle w:val="a3"/>
+				<w:spacing w:before="3"/>
+				<w:rPr>
+					<w:b/>
+					<w:sz w:val="6"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:tbl>
+			<w:tblPr>
+				<w:tblW w:w="0" w:type="auto"/>
+				<w:tblInd w:w="210" w:type="dxa"/>
+				<w:tblBorders>
+					<w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+					<w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+					<w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+					<w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+					<w:insideH w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+					<w:insideV w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+				</w:tblBorders>
+				<w:tblLayout w:type="fixed"/>
+				<w:tblCellMar>
+					<w:left w:w="0" w:type="dxa"/>
+					<w:right w:w="0" w:type="dxa"/>
+				</w:tblCellMar>
+				<w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+			</w:tblPr>
+			<w:tblGrid>
+				<w:gridCol w:w="2064"/>
+				<w:gridCol w:w="6831"/>
+			</w:tblGrid>
+			<w:tr w:rsidR="00693340" w:rsidRPr="00A47964" w14:paraId="72017890" w14:textId="77777777">
+				<w:trPr>
+					<w:trHeight w:val="467"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="498A0FBD" w14:textId="77777777" w:rsidR="00693340" w:rsidRPr="00A47964" w:rsidRDefault="004B6768">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00A47964">
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>交易编号</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="508AA5A5" w14:textId="77777777" w:rsidR="00693340" w:rsidRPr="00A47964" w:rsidRDefault="004B6768">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00A47964">
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>${tradeCode}</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00693340" w14:paraId="72017890" w14:textId="77777777" w:rsidTr="00EE2616">
+				<w:trPr>
+					<w:trHeight w:val="467"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="498A0FBD" w14:textId="453D28C5" w:rsidR="00693340" w:rsidRDefault="004B6768">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t>产品卖方</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="508AA5A5" w14:textId="5651F857" w:rsidR="00693340" w:rsidRDefault="0046110B">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:rPr>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>${productSellName}</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00693340" w14:paraId="7734E253" w14:textId="77777777" w:rsidTr="00EE2616">
+				<w:trPr>
+					<w:trHeight w:val="468"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="3D7B3369" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="004B6768">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="82"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t>产品买方</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="3A7009CD" w14:textId="21B0F53A" w:rsidR="00693340" w:rsidRDefault="0046110B">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="82"/>
+							<w:rPr>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>${productBuyName}</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00CF75B7" w14:paraId="5208E8A3" w14:textId="77777777" w:rsidTr="00EE2616">
+				<w:trPr>
+					<w:trHeight w:val="468"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="2F88A2F2" w14:textId="12E2EF59" w:rsidR="00CF75B7" w:rsidRDefault="00CF75B7">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="82"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>产品名称</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="27DFDC08" w14:textId="5410F944" w:rsidR="00CF75B7" w:rsidRPr="00946CD8" w:rsidRDefault="00160ACC">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="82"/>
+							<w:rPr>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>${optionTypeName}</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00693340" w14:paraId="0E30DDD8" w14:textId="77777777" w:rsidTr="00EE2616">
+				<w:trPr>
+					<w:trHeight w:val="467"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="42DB76B9" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="004B6768">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="81"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t>挂钩标的</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="786678B0" w14:textId="3465A312" w:rsidR="00693340" w:rsidRDefault="00160ACC">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="88"/>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:sz w:val="24"/>
+								<w:lang w:val="en-US"/>
+							</w:rPr>
+							<w:t>${underlyingCode}</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00693340" w14:paraId="0F083D23" w14:textId="77777777" w:rsidTr="00EE2616">
+				<w:trPr>
+					<w:trHeight w:val="467"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="03BB5C26" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="004B6768">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="81"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t>头寸规模</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="45CAC584" w14:textId="376B70C9" w:rsidR="00693340" w:rsidRDefault="00160ACC">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="36"/>
+							<w:rPr>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>${tradeVolumeString} ${quoteUnit}</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00693340" w14:paraId="31790D8C" w14:textId="77777777" w:rsidTr="00EE2616">
+				<w:trPr>
+					<w:trHeight w:val="468"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="4A1E1592" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="004B6768">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t>每日头寸规模</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="7F2E622B" w14:textId="3FB330F3" w:rsidR="00693340" w:rsidRPr="00160ACC" w:rsidRDefault="00160ACC" w:rsidP="006B31F7">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="51"/>
+							<w:rPr>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00160ACC">
+							<w:rPr>
+								<w:sz w:val="24"/>
+								<w:lang w:val="en-US"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t>${basicQuantityString} ${quoteUnit}</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00693340" w14:paraId="02D4D4DB" w14:textId="77777777" w:rsidTr="00EE2616">
+				<w:trPr>
+					<w:trHeight w:val="935"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="655FDFC4" w14:textId="0816A125" w:rsidR="00693340" w:rsidRDefault="004B6768" w:rsidP="008740D2">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t>权利金总额</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="2A18572B" w14:textId="74930536" w:rsidR="00693340" w:rsidRPr="00160ACC" w:rsidRDefault="00160ACC">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:rPr>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:sz w:val="24"/>
+								<w:lang w:val="en-US"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t>${totalAmount} 元</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00693340" w:rsidRPr="00BD0A1B" w14:paraId="02D4D4DB" w14:textId="77777777" w:rsidTr="00D01D67">
+				<w:trPr>
+					<w:trHeight w:val="935"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="0C098C81" w14:textId="042E1692" w:rsidR="00693340" w:rsidRPr="00BD0A1B" w:rsidRDefault="004B6768">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00BD0A1B">
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>支付方向</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="2A18572B" w14:textId="18C2D223" w:rsidR="00693340" w:rsidRPr="00BD0A1B" w:rsidRDefault="009F55E7">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>若权利金总额为正，则产品买方向产品卖方支付权利金总额的绝对值；</w:t>
+						</w:r>
+					</w:p>
+					<w:p w14:paraId="2A18572B" w14:textId="18C2D223" w:rsidR="00693340" w:rsidRPr="00BD0A1B" w:rsidRDefault="009F55E7">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>若权利金总额为负，则产品卖方向产品买方支付权利金总额的绝对值。</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00693340" w14:paraId="2C966342" w14:textId="77777777" w:rsidTr="00EE2616">
+				<w:trPr>
+					<w:trHeight w:val="468"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="39F68CEE" w14:textId="2992BC24" w:rsidR="00693340" w:rsidRDefault="004B6768">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>成交日期</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="42896938" w14:textId="71A76841" w:rsidR="00693340" w:rsidRPr="00160ACC" w:rsidRDefault="00160ACC" w:rsidP="00946CD8">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:rPr>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t>${tradeDateString}</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00693340" w14:paraId="29A333B9" w14:textId="77777777" w:rsidTr="00EE2616">
+				<w:trPr>
+					<w:trHeight w:val="468"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="206AB39E" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="004B6768">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t>期初观察日</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="387989AB" w14:textId="45146F2D" w:rsidR="00693340" w:rsidRPr="00160ACC" w:rsidRDefault="00160ACC" w:rsidP="00946CD8">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:rPr>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t>${obsDateStart}</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00693340" w14:paraId="0F491CAD" w14:textId="77777777" w:rsidTr="00EE2616">
+				<w:trPr>
+					<w:trHeight w:val="1871"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="7504086F" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="004B6768">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="82"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t>期末观察日</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="36C48E6C" w14:textId="0920763E" w:rsidR="00693340" w:rsidRDefault="00160ACC">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="160"/>
+							<w:rPr>
+								<w:spacing w:val="-30"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:spacing w:val="-30"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>${obsDateEnd}</w:t>
+						</w:r>
+					</w:p>
+					<w:p w14:paraId="2D98A811" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="004B6768">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="160"/>
+							<w:rPr>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t>如遇非交易日，则顺延至其后第一个交易日；</w:t>
+						</w:r>
+					</w:p>
+					<w:p w14:paraId="54745E0E" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="004B6768">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="0" w:line="470" w:lineRule="atLeast"/>
+							<w:ind w:right="97"/>
+							<w:rPr>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:spacing w:val="-6"/>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t>若挂钩标的在预定期末观察日发生对冲干扰事件，则实际期末观察日向后顺延至未发生对冲干扰事件的第一个交易日。</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00693340" w14:paraId="0A528A60" w14:textId="77777777" w:rsidTr="00EE2616">
+				<w:trPr>
+					<w:trHeight w:val="468"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="02DDC74F" w14:textId="4D9A9AB7" w:rsidR="00693340" w:rsidRDefault="004B6768">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="81"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t>观察日</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="1133C67E" w14:textId="10C57A95" w:rsidR="00693340" w:rsidRDefault="00160ACC">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="52"/>
+							<w:rPr>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>${obsDateSize}</w:t>
+						</w:r>
+						<w:r w:rsidR="004B6768">
+							<w:rPr>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t>（期初观察日（含）至期末观察日（含）的全部交易日）</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+		</w:tbl>
+		<w:p w14:paraId="4A7D5164" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="00693340">
+			<w:pPr>
+				<w:rPr>
+					<w:sz w:val="24"/>
+				</w:rPr>
+				<w:sectPr w:rsidR="00693340" w:rsidSect="0078531B">
+					<w:type w:val="continuous"/>
+					<w:pgSz w:w="11910" w:h="16840"/>
+					<w:pgMar w:top="1440" w:right="1260" w:bottom="280" w:left="1300" w:header="720" w:footer="720" w:gutter="0"/>
+					<w:cols w:space="720"/>
+				</w:sectPr>
+			</w:pPr>
+		</w:p>
+		<w:tbl>
+			<w:tblPr>
+				<w:tblW w:w="0" w:type="auto"/>
+				<w:tblInd w:w="210" w:type="dxa"/>
+				<w:tblBorders>
+					<w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+					<w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+					<w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+					<w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+					<w:insideH w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+					<w:insideV w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+				</w:tblBorders>
+				<w:tblLayout w:type="fixed"/>
+				<w:tblCellMar>
+					<w:left w:w="0" w:type="dxa"/>
+					<w:right w:w="0" w:type="dxa"/>
+				</w:tblCellMar>
+				<w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+			</w:tblPr>
+			<w:tblGrid>
+				<w:gridCol w:w="2064"/>
+				<w:gridCol w:w="6831"/>
+			</w:tblGrid>
+			<w:tr w:rsidR="00693340" w14:paraId="0774A49A" w14:textId="77777777" w:rsidTr="00EE2616">
+				<w:trPr>
+					<w:trHeight w:val="467"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="44A8383A" w14:textId="4A48C412" w:rsidR="00693340" w:rsidRDefault="00F17D92">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:lastRenderedPageBreak/>
+							<w:t>敲出价格</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="0481ED2E" w14:textId="6C490FE5" w:rsidR="00693340" w:rsidRDefault="00160ACC">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:rPr>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t xml:space="preserve">${barrierString}</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00693340" w14:paraId="465D8F79" w14:textId="77777777" w:rsidTr="00EE2616">
+				<w:trPr>
+					<w:trHeight w:val="467"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="20DB65D7" w14:textId="6496C492" w:rsidR="00693340" w:rsidRDefault="00F17D92">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="82"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>行权价格</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="1BDE9DEF" w14:textId="45AFE5C3" w:rsidR="00693340" w:rsidRDefault="00160ACC" w:rsidP="00946CD8">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="82"/>
+							<w:rPr>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:sz w:val="24"/>
+								<w:lang w:val="en-US"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t xml:space="preserve">${strikeString}</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00C350DB" w14:paraId="3E813BFC" w14:textId="77777777" w:rsidTr="00EE2616">
+				<w:trPr>
+					<w:trHeight w:val="467"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="0E55F0E6" w14:textId="77777777" w:rsidR="00C350DB" w:rsidRDefault="00C350DB">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="82"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>入场价格</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="1207562A" w14:textId="00644C59" w:rsidR="00C350DB" w:rsidRDefault="00160ACC" w:rsidP="002B7FCA">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="82"/>
+							<w:rPr>
+								<w:sz w:val="24"/>
+								<w:lang w:val="en-US"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t xml:space="preserve">${entryPriceString}</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="003D2AC0" w14:paraId="52BA4F62" w14:textId="77777777" w:rsidTr="00EE2616">
+				<w:trPr>
+					<w:trHeight w:val="467"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="092ACD65" w14:textId="13620839" w:rsidR="003D2AC0" w:rsidRDefault="003D2AC0">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="82"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>每日固定赔付</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="4A1640A1" w14:textId="2D3BA5CE" w:rsidR="003D2AC0" w:rsidRDefault="00160ACC" w:rsidP="002B7FCA">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="82"/>
+							<w:rPr>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t>${fixedPayment} 元/${quoteUnit}</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="003D2AC0" w14:paraId="52BA4F62" w14:textId="77777777" w:rsidTr="00EE2616">
+				<w:trPr>
+					<w:trHeight w:val="467"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="092ACD65" w14:textId="13620839" w:rsidR="003D2AC0" w:rsidRDefault="003D2AC0">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="82"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>杠杆系数</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="4A1640A1" w14:textId="2D3BA5CE" w:rsidR="003D2AC0" w:rsidRDefault="00160ACC" w:rsidP="002B7FCA">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="82"/>
+							<w:rPr>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t>${leverage}</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+
+			<w:tr w:rsidR="00CD22C2" w14:paraId="5A98BEAF" w14:textId="77777777" w:rsidTr="00EE2616">
+				<w:trPr>
+					<w:trHeight w:val="467"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="60817205" w14:textId="6C9051F9" w:rsidR="00CD22C2" w:rsidRDefault="00CD22C2">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="82"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>期末额外倍数</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="610010FE" w14:textId="6FC57336" w:rsidR="00CD22C2" w:rsidRDefault="00160ACC" w:rsidP="002B7FCA">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="82"/>
+							<w:rPr>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t>${expireMultiple}</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00693340" w:rsidRPr="007B6461" w14:paraId="0774A49A" w14:textId="77777777">
+				<w:trPr>
+					<w:trHeight w:val="467"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="44A8383A" w14:textId="0B2B3BB5" w:rsidR="00693340" w:rsidRPr="007B6461" w:rsidRDefault="00CF75B7">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="007B6461">
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:lastRenderedPageBreak/>
+							<w:t>敲出赔付</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="0481ED2E" w14:textId="721A337E" w:rsidR="00693340" w:rsidRPr="007B6461" w:rsidRDefault="007462B2">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="007B6461">
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>${knockoutRebateString}</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00024E8C" w14:paraId="64F40105" w14:textId="77777777" w:rsidTr="00EE2616">
+				<w:trPr>
+					<w:trHeight w:val="467"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="7F5BBA5B" w14:textId="632BDC85" w:rsidR="00024E8C" w:rsidRDefault="00024E8C">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="82"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>结算方式</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="7D0932EF" w14:textId="65D71FEB" w:rsidR="00024E8C" w:rsidRDefault="00024E8C" w:rsidP="008740D2">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="82"/>
+							<w:rPr>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>${settleTypeString}</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00AA74E1" w:rsidRPr="00991796" w14:paraId="5BAB51A0" w14:textId="77777777" w:rsidTr="00991796">
+				<w:trPr>
+					<w:trHeight w:val="1300"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="7EE70B42" w14:textId="77777777" w:rsidR="00AA74E1" w:rsidRPr="00991796" w:rsidRDefault="00AA74E1" w:rsidP="00AA74E1">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="81"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00991796">
+							<w:rPr>
+								<w:b/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>收益结构</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="63A2618A" w14:textId="77777777" w:rsidR="00AA74E1" w:rsidRPr="00991796" w:rsidRDefault="00AA74E1" w:rsidP="00AA74E1">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:tabs>
+								<w:tab w:val="left" w:pos="528"/>
+							</w:tabs>
+							<w:spacing w:before="81" w:line="364" w:lineRule="auto"/>
+							<w:ind w:left="527" w:right="89"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00991796">
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>一、结算方式为头寸时：</w:t>
+						</w:r>
+					</w:p>
+					<w:p w14:paraId="11159634" w14:textId="77777777" w:rsidR="002F26E0" w:rsidRPr="00CD22C2" w:rsidRDefault="002F26E0" w:rsidP="002F26E0">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:tabs>
+								<w:tab w:val="left" w:pos="528"/>
+							</w:tabs>
+							<w:spacing w:before="81" w:line="364" w:lineRule="auto"/>
+							<w:ind w:right="89" w:firstLineChars="200" w:firstLine="482"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00CD22C2">
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>在任一观察日：</w:t>
+						</w:r>
+					</w:p>
+
+					<w:p w14:paraId="1BF29B3F" w14:textId="0890CB07" w:rsidR="00DB3C15" w:rsidRPr="00991796" w:rsidRDefault="006D7374" w:rsidP="003B27AC">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:tabs>
+								<w:tab w:val="left" w:pos="528"/>
+							</w:tabs>
+							<w:spacing w:before="81" w:line="364" w:lineRule="auto"/>
+							<w:ind w:left="567" w:right="89" w:firstLine="-380"/>
+							<w:rPr>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>1. 如果观察日挂钩标的收盘价小于行权价格，则产品买方在该观察日以行权价格获得期货多单，数量为：每日头寸规模*杠杆系数；</w:t>
+						</w:r>
+					</w:p>
+					<w:p w14:paraId="217EBB45" w14:textId="18351710" w:rsidR="006D0004" w:rsidRPr="00991796" w:rsidRDefault="006D0004" w:rsidP="006D0004">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:tabs>
+								<w:tab w:val="left" w:pos="528"/>
+							</w:tabs>
+							<w:spacing w:before="81" w:line="364" w:lineRule="auto"/>
+							<w:ind w:left="567" w:right="89" w:firstLine="-380"/>
+							<w:rPr>
+								<w:spacing w:val="-7"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00991796">
+							<w:rPr>
+								<w:spacing w:val="-7"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>2. 如果观察日挂钩标的收盘价大于等于行权价格且小于敲出价格，则产品买方在该观察日获得现金收益为：每日固定赔付*每日头寸规模；</w:t>
+						</w:r>
+					</w:p>
+					<w:p w14:paraId="15E317BE" w14:textId="7B30E4E0" w:rsidR="006D0004" w:rsidRPr="00991796" w:rsidRDefault="006D0004" w:rsidP="006D0004">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:tabs>
+								<w:tab w:val="left" w:pos="528"/>
+							</w:tabs>
+							<w:spacing w:before="81" w:line="364" w:lineRule="auto"/>
+							<w:ind w:left="567" w:right="89" w:firstLine="-380"/>
+							<w:rPr>
+								<w:spacing w:val="-7"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00991796">
+							<w:rPr>
+								<w:spacing w:val="-7"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>3. 如果观察日挂钩标的收盘价大于等于敲出价格，则发生敲出事件。则产品买方在该观察日获得现金收益为：剩余未观察天数(含敲出当日)*每日头寸规模*敲出赔付</w:t>
+						</w:r>
+					</w:p>
+					<w:p w14:paraId="605FA8CF" w14:textId="3DAE67EE" w:rsidR="00CD22C2" w:rsidRPr="00CD22C2" w:rsidRDefault="00CD22C2" w:rsidP="008740D2">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:tabs>
+								<w:tab w:val="left" w:pos="528"/>
+							</w:tabs>
+							<w:spacing w:before="81" w:line="364" w:lineRule="auto"/>
+							<w:ind w:right="89" w:firstLineChars="200" w:firstLine="482"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00CD22C2">
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>在最后一个观察日：</w:t>
+						</w:r>
+					</w:p>
+					<w:p w14:paraId="5FB40FC6" w14:textId="1E8BB4D7" w:rsidR="00CD22C2" w:rsidRPr="008740D2" w:rsidRDefault="002F26E0" w:rsidP="008740D2">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:tabs>
+								<w:tab w:val="left" w:pos="528"/>
+							</w:tabs>
+							<w:spacing w:before="81" w:line="364" w:lineRule="auto"/>
+							<w:ind w:right="89" w:firstLineChars="200" w:firstLine="480"/>
+							<w:rPr>
+								<w:spacing w:val="-7"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="008740D2">
+							<w:rPr>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t>如果任一观察日从未发生敲出事件，且最后一个观察日挂钩标的收盘价小于行权价格，则产品买方在该观察日以行权价格额外获得期货多单，数量为：每日头寸规模*期末额外倍数。</w:t>
+						</w:r>
+					</w:p>
+
+					<w:p w14:paraId="3D1E2E62" w14:textId="77777777" w:rsidR="00AA74E1" w:rsidRPr="00991796" w:rsidRDefault="00AA74E1" w:rsidP="00AA74E1">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:tabs>
+								<w:tab w:val="left" w:pos="528"/>
+							</w:tabs>
+							<w:spacing w:before="81" w:line="364" w:lineRule="auto"/>
+							<w:ind w:left="527" w:right="89"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00991796">
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>二、结算方式为现金时：</w:t>
+						</w:r>
+					</w:p>
+					<w:p w14:paraId="11159634" w14:textId="77777777" w:rsidR="002F26E0" w:rsidRPr="00CD22C2" w:rsidRDefault="002F26E0" w:rsidP="002F26E0">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:tabs>
+								<w:tab w:val="left" w:pos="528"/>
+							</w:tabs>
+							<w:spacing w:before="81" w:line="364" w:lineRule="auto"/>
+							<w:ind w:right="89" w:firstLineChars="200" w:firstLine="482"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00CD22C2">
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>在任一观察日：</w:t>
+						</w:r>
+					</w:p>
+
+					<w:p w14:paraId="1BF29B3F" w14:textId="0890CB07" w:rsidR="00DB3C15" w:rsidRPr="00761804" w:rsidRDefault="006D7374" w:rsidP="003B27AC">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:tabs>
+								<w:tab w:val="left" w:pos="528"/>
+							</w:tabs>
+							<w:spacing w:before="81" w:line="364" w:lineRule="auto"/>
+							<w:ind w:left="567" w:right="89" w:firstLine="-380"/>
+							<w:rPr>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>1. 如果观察日挂钩标的收盘价小于行权价格，则产品买方在该观察日获得现金收益为：每日头寸规模*杠杆系数*（挂钩标的收盘价-行权价格）；</w:t>
+						</w:r>
+					</w:p>
+					<w:p w14:paraId="46FCDE2D" w14:textId="7DD27D64" w:rsidR="006D0004" w:rsidRPr="00991796" w:rsidRDefault="006D0004" w:rsidP="00B42975">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:tabs>
+								<w:tab w:val="left" w:pos="528"/>
+							</w:tabs>
+							<w:spacing w:before="81" w:line="364" w:lineRule="auto"/>
+							<w:ind w:left="567" w:right="89" w:firstLine="-380"/>
+							<w:rPr>
+								<w:spacing w:val="-2"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00991796">
+							<w:rPr>
+								<w:spacing w:val="-2"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>2. 如果观察日挂钩标的收盘价大于等于行权价格且小于敲出价格，则产品买方在该观察日获得现金收益为：每日固定赔付*每日头寸规模；</w:t>
+						</w:r>
+					</w:p>
+					<w:p w14:paraId="6DE42D54" w14:textId="3BF48CFD" w:rsidR="006D0004" w:rsidRPr="00991796" w:rsidRDefault="006D0004" w:rsidP="00D728FF">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:tabs>
+								<w:tab w:val="left" w:pos="528"/>
+							</w:tabs>
+							<w:spacing w:before="81" w:line="364" w:lineRule="auto"/>
+							<w:ind w:left="567" w:right="89" w:firstLine="-380"/>
+							<w:rPr>
+								<w:spacing w:val="-2"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00991796">
+							<w:rPr>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:lastRenderedPageBreak/>
+							<w:t>3. 如果观察日挂钩标的收盘价大于等于敲出价格，则发生敲出事件。则产品买方在该观察日获得现金收益为：剩余未观察天数（含敲出当日）*每日头寸规模*敲出赔付。</w:t>
+						</w:r>
+					</w:p>
+					<w:p w14:paraId="605FA8CF" w14:textId="3DAE67EE" w:rsidR="00CD22C2" w:rsidRPr="00CD22C2" w:rsidRDefault="00CD22C2" w:rsidP="008740D2">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:tabs>
+								<w:tab w:val="left" w:pos="528"/>
+							</w:tabs>
+							<w:spacing w:before="81" w:line="364" w:lineRule="auto"/>
+							<w:ind w:right="89" w:firstLineChars="200" w:firstLine="482"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00CD22C2">
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>在最后一个观察日：</w:t>
+						</w:r>
+					</w:p>
+					<w:p w14:paraId="5FB40FC6" w14:textId="1E8BB4D7" w:rsidR="00CD22C2" w:rsidRPr="008740D2" w:rsidRDefault="002F26E0" w:rsidP="008740D2">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:tabs>
+								<w:tab w:val="left" w:pos="528"/>
+							</w:tabs>
+							<w:spacing w:before="81" w:line="364" w:lineRule="auto"/>
+							<w:ind w:right="89" w:firstLineChars="200" w:firstLine="480"/>
+							<w:rPr>
+								<w:spacing w:val="-7"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="008740D2">
+							<w:rPr>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t>如果任一观察日从未发生敲出事件，且最后一个观察日挂钩标的收盘价小于行权价格，则产品买方在该观察日额外获得现金收益为：每日头寸规模*期末额外倍数*（挂钩标的收盘价-行权价格）。</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00072009" w:rsidRPr="007B6461" w14:paraId="3559863B" w14:textId="77777777">
+				<w:trPr>
+					<w:trHeight w:val="935"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="56674BFA" w14:textId="77777777" w:rsidR="00072009" w:rsidRPr="007B6461" w:rsidRDefault="00072009" w:rsidP="00072009">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="81"/>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="007B6461">
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>期货头寸到期日</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="53DAA264" w14:textId="77777777" w:rsidR="00072009" w:rsidRPr="007B6461" w:rsidRDefault="00072009" w:rsidP="00072009">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:line="364" w:lineRule="auto" w:before="81"/>
+							<w:ind w:right="120"/>
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="007B6461">
+							<w:rPr>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+								<w:spacing w:val="-17" w:line="364" />
+								<w:sz w:val="24"/>
+							</w:rPr>
+							<w:t>产品买方选择头寸结算时，获得的期货头寸到期日以甲方通知为准，但不得超过累计期权到期日30个交易日。</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00F17D92" w14:paraId="3559863B" w14:textId="77777777" w:rsidTr="00EE2616">
+				<w:trPr>
+					<w:trHeight w:val="1404"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="56674BFA" w14:textId="77777777" w:rsidR="00F17D92" w:rsidRDefault="00F17D92" w:rsidP="00F17D92">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="81"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:lastRenderedPageBreak/>
+							<w:t>提前终止权利</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="53DAA264" w14:textId="77777777" w:rsidR="00F17D92" w:rsidRDefault="00F17D92" w:rsidP="00F17D92">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="81" w:line="364"/>
+							<w:ind w:right="120"/>
+							<w:rPr>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:spacing w:val="-17"/>
+								<w:sz w:val="24" w:line="364" />
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t>产品存续期内，乙方有权提前终止本合约，需支付提前终止成本，该成本由甲方根据当日市场流动性及市场价格计算得出。乙方签字盖章确认后可提前终止本合约。</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00F17D92" w14:paraId="71F5065C" w14:textId="77777777" w:rsidTr="00EE2616">
+				<w:trPr>
+					<w:trHeight w:val="935"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2064" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="467F6498" w14:textId="77777777" w:rsidR="00F17D92" w:rsidRDefault="00F17D92" w:rsidP="00F17D92">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:b/>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t>对冲干扰事件</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="6831" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w14:paraId="2042E8EC" w14:textId="77777777" w:rsidR="00F17D92" w:rsidRDefault="00F17D92" w:rsidP="00F17D92">
+						<w:pPr>
+							<w:pStyle w:val="TableParagraph"/>
+							<w:spacing w:before="81" w:line="364"/>
+							<w:rPr>
+								<w:sz w:val="24"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:sz w:val="24"/>
+								<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+							</w:rPr>
+							<w:t>对冲干扰事件是指挂钩标的在任一观察日内发生的影响观察挂钩标的收盘价格、对冲、交易等的事件。</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+		</w:tbl>
+		<w:p w14:paraId="6001FC0B" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="00693340">
+			<w:pPr>
+				<w:pStyle w:val="a3"/>
+				<w:rPr>
+					<w:b/>
+					<w:sz w:val="20"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="472F1F51" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="00693340">
+			<w:pPr>
+				<w:pStyle w:val="a3"/>
+				<w:spacing w:before="8"/>
+				<w:rPr>
+					<w:b/>
+					<w:sz w:val="17"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="75D140C9" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="004B6768" w:rsidP="00EE2616">
+			<w:pPr>
+				<w:pStyle w:val="a3"/>
+				<w:spacing w:before="66" w:line="364" w:lineRule="auto"/>
+				<w:ind w:left="0" w:right="0" w:firstLine="480"/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:spacing w:val="-14"/>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+				</w:rPr>
+				<w:t>双方确认办理本交易符合己方的交易目的。同时，双方就本交易的各种风险因素（包括但不限于信用风险、市场风险、流动性风险、操作风险、法律风险等）向对手进行了充分、详细的披露和解释。双方经自主和独立判断，已经完全理解本交易的条款和各种隐含风险，及本交易的最差情况及最大潜在亏损，并对此具有足够的承受能力。</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="77AF6177" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="00693340">
+			<w:pPr>
+				<w:pStyle w:val="a3"/>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="1E3B1B94" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="004B6768">
+			<w:pPr>
+				<w:pStyle w:val="1"/>
+				<w:spacing w:before="163"/>
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+				</w:rPr>
+				<w:t>二、其他约定</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="5C9DAE4B" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="004B6768" w:rsidP="00EE2616">
+			<w:pPr>
+				<w:pStyle w:val="a3"/>
+				<w:spacing w:before="161" w:line="364" w:lineRule="auto"/>
+				<w:ind w:left="116" w:right="0" w:firstLine="480"/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+					<w:spacing w:val="3"/>
+				</w:rPr>
+				<w:t>1、乙方若对本交易确认书有异议的，应在收到本确认书后的一个工作日内向甲方书面提出异议，同时说明理由；若甲方未在上述期限内收到乙方的书面异议，则视为乙方接受本确认书所记载的全部内容。</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="28344F8F" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="004B6768" w:rsidP="00EE2616">
+			<w:pPr>
+				<w:pStyle w:val="a3"/>
+				<w:spacing w:before="1" w:line="364" w:lineRule="auto"/>
+				<w:ind w:left="116" w:right="0" w:firstLine="480"/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+					<w:spacing w:val="3"/>
+				</w:rPr>
+				<w:t>2、在乙方对交易确认书回复确认前或乙方主张未收到甲方发送的交易确认书，双方已按乙方发送交易指令完成交易的，任意一方均不能以未签订交易确认书、交易确认书未生效为由否认已完成的交易效力，以双方其他具有法律约束力的记录为交易有效约定。</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="2C4BF78A" w14:textId="19EBC19D" w:rsidR="00693340" w:rsidRDefault="004B6768" w:rsidP="0047604C">
+			<w:pPr>
+				<w:pStyle w:val="a3"/>
+				<w:spacing w:before="1" w:line="364" w:lineRule="auto"/>
+				<w:ind w:left="116" w:right="0" w:firstLine="480"/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+					<w:spacing w:val="3"/>
+				</w:rPr>
+				<w:t>3、乙方授权人的交易指令和其它有关指示对乙方有绝对的法律约束力，乙方对被授权人的交易行为承担全部责任。</w:t>
+			</w:r>
+		</w:p>
+
+		<w:p w14:paraId="2B12EE38" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="004B6768" w:rsidP="00EE2616">
+			<w:pPr>
+				<w:pStyle w:val="a3"/>
+				<w:spacing w:before="1" w:line="364" w:lineRule="auto"/>
+				<w:ind w:left="115" w:right="0" w:firstLine="480"/>
+				<w:jc w:val="left"/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+					<w:spacing w:val="3"/>
+				</w:rPr>
+				<w:t>4、 由于各种风险因素的存在，甲乙双方理解其参与交易的目的不一定能够实现， 上述后果由交易一方自行承担，交易另一方对此不提供担保也不承担任何责任。</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="2B12EE38" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="004B6768" w:rsidP="00EE2616">
+			<w:pPr>
+				<w:pStyle w:val="a3"/>
+				<w:spacing w:before="1" w:line="364" w:lineRule="auto"/>
+				<w:ind w:left="115" w:right="0" w:firstLine="480"/>
+				<w:jc w:val="left"/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+					<w:spacing w:val="3"/>
+				</w:rPr>
+				<w:t>5、本交易确认书所涉及的交易及适用于主协议、补充协议的所有其他交易，违约一方有义务承担由此产生的所有费用和损失。</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="104994A4" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="00693340">
+			<w:pPr>
+				<w:pStyle w:val="a3"/>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="71D81731" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="00693340">
+			<w:pPr>
+				<w:pStyle w:val="a3"/>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="09FE94D0" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="00693340">
+			<w:pPr>
+				<w:pStyle w:val="a3"/>
+				<w:spacing w:before="1"/>
+				<w:rPr>
+					<w:sz w:val="25"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="069F9328" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="004B6768">
+			<w:pPr>
+				<w:pStyle w:val="a3"/>
+				<w:ind w:right="157"/>
+				<w:jc w:val="right"/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+				</w:rPr>
+				<w:t>东证润和资本管理有限公司</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="32DD23B9" w14:textId="77777777" w:rsidR="00693340" w:rsidRDefault="004B6768">
+			<w:pPr>
+				<w:pStyle w:val="a3"/>
+				<w:spacing w:before="161"/>
+				<w:ind w:right="157"/>
+				<w:jc w:val="right"/>
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+				</w:rPr>
+				<w:t>（盖章）</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="68B040E7" w14:textId="45684069" w:rsidR="00693340" w:rsidRDefault="00160ACC">
+			<w:pPr>
+				<w:pStyle w:val="a3"/>
+				<w:tabs>
+					<w:tab w:val="left" w:pos="719"/>
+					<w:tab w:val="left" w:pos="1319"/>
+				</w:tabs>
+				<w:spacing w:before="160"/>
+				<w:ind w:right="157"/>
+				<w:jc w:val="right"/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+				</w:rPr>
+				<w:t>${tradeDateString}</w:t>
+			</w:r>
+		</w:p>
+		<w:sectPr w:rsidR="00693340">
+			<w:pgSz w:w="11910" w:h="16840"/>
+			<w:pgMar w:top="1460" w:right="1260" w:bottom="280" w:left="1300" w:header="720" w:footer="720" w:gutter="0"/>
+			<w:cols w:space="720"/>
+		</w:sectPr>
+	</w:body>
+</w:document>

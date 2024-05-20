@@ -1,0 +1,3526 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
+    <w:body>
+        <w:p w14:paraId="73DE1049" w14:textId="6B783D01" w:rsidR="00AE5ECB" w:rsidRPr="00B013B8" w:rsidRDefault="00F04EC9" w:rsidP="00B013B8">
+            <w:pPr>
+                <w:pStyle w:val="a5"/>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                    <w:sz w:val="32"/>
+                    <w:szCs w:val="32"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00CA6786">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:sz w:val="32"/>
+                    <w:szCs w:val="32"/>
+                </w:rPr>
+                <w:t>中国证券期货市场衍生品交易确认书</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="1610A53D" w14:textId="0874CAAD" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="00F0596E">
+            <w:pPr>
+                <w:pStyle w:val="1"/>
+                <w:spacing w:line="240" w:lineRule="auto"/>
+                <w:ind w:left="121" w:right="121"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>甲方：</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>东证润和</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>资本管理有限公司</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5A4E95C4" w14:textId="77777777" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="00F0596E">
+            <w:pPr>
+                <w:pStyle w:val="1"/>
+                <w:spacing w:line="240" w:lineRule="auto"/>
+                <w:ind w:left="121" w:right="121"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>乙方：</w:t>
+            </w:r>
+            <w:r w:rsidR="007E0A7F">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>${clientName}</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="179FD3E1" w14:textId="383C90FE" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="0025569C">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:spacing w:before="2"/>
+                <w:ind w:left="119" w:firstLine="495"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:spacing w:val="3"/>
+                </w:rPr>
+                <w:t>甲方和乙方以下单独称“交易一方”，合称“交易双方”。交易双方已经签署了《中国证券期货市场衍生品交易主协议</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>（</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:spacing w:val="-58"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>2014年版）》（以下称“主协议”）及补充协议，本确认书构成主协议下的一项“交易有效约定”，主协议和补充协议中的全部条款适用于本确认书，除非本确认书中另有约定。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="13F8ADE6" w14:textId="77777777" w:rsidR="0025569C" w:rsidRDefault="00F04EC9" w:rsidP="0073768E">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:spacing w:before="2"/>
+                <w:ind w:left="119" w:firstLine="495"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:spacing w:val="3"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="0073768E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:spacing w:val="3"/>
+                </w:rPr>
+                <w:t>本确认书适用《中国证券期货市场场外衍生品交易商品类衍生品定义文件》及其修改或补充（以下称“商品定义文件”），若本确认书与商品定义文件中的约定不一致，本确认书的相关约定具有优先法律效力。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="4D047A3A" w14:textId="5A0F31DC" w:rsidR="002F0D6A" w:rsidRPr="0073768E" w:rsidRDefault="00F04EC9" w:rsidP="0073768E">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:spacing w:before="2"/>
+                <w:ind w:left="119" w:firstLine="495"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:spacing w:val="3"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="0073768E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:spacing w:val="3"/>
+                </w:rPr>
+                <w:t>交易双方同意，本确认书所述条款构成了交易双方之间就本确认书项下交易的完整条款，且对交易双方具有法律约束力。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="3E219899" w14:textId="3FABB0FD" w:rsidR="00943B3B" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="002F0D6A">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:spacing w:before="2"/>
+                <w:ind w:right="1113"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:b/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                    <w:b/>
+                </w:rPr>
+                <w:t>交易信息：</w:t>
+            </w:r>
+        </w:p>
+        <#list AIForwardPricerList as item>
+            <w:p w14:paraId="121B7D34" w14:textId="77777777" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="004D515A" w:rsidP="00F0596E">
+                <w:pPr>
+                    <w:pStyle w:val="a3"/>
+                    <w:spacing w:before="15"/>
+                    <w:rPr>
+                        <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                        <w:b/>
+                        <w:sz w:val="13"/>
+                    </w:rPr>
+                </w:pPr>
+            </w:p>
+            <w:tbl>
+                <w:tblPr>
+                    <w:tblStyle w:val="TableNormal"/>
+                    <w:tblW w:w="13786" w:type="dxa"/>
+                    <w:tblInd w:w="111" w:type="dxa"/>
+                    <w:tblBorders>
+                        <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        <w:insideH w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                        <w:insideV w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+                    </w:tblBorders>
+                    <w:tblLayout w:type="fixed"/>
+                    <w:tblLook w:val="01E0" w:firstRow="1" w:lastRow="1" w:firstColumn="1" w:lastColumn="1" w:noHBand="0" w:noVBand="0"/>
+                </w:tblPr>
+                <w:tblGrid>
+                    <w:gridCol w:w="1528"/>
+                    <w:gridCol w:w="6210"/>
+                    <w:gridCol w:w="2282"/>
+                    <w:gridCol w:w="3766"/>
+                </w:tblGrid>
+                <w:tr w:rsidR="00F0596E" w:rsidRPr="00F0596E" w14:paraId="5EEB209C" w14:textId="77777777" w:rsidTr="00CA5336">
+                    <w:trPr>
+                        <w:trHeight w:val="342"/>
+                    </w:trPr>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1528" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="439EE21F" w14:textId="77777777" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="00F04EC9" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                                <w:t>交易编码</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="6210" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="41559BE0" w14:textId="4AD6B8DA" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="007E0A7F" w:rsidP="00943B3B">
+                            <w:pPr>
+                                <w:pStyle w:val="TableParagraph"/>
+                                <w:spacing w:line="240" w:lineRule="auto"/>
+                                <w:ind w:left="0" w:right="0"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                    <w:sz w:val="24"/>
+                                    <w:szCs w:val="24"/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                    <w:sz w:val="24"/>
+                                    <w:szCs w:val="24"/>
+                                </w:rPr>
+                                <w:t>${item.tradeCode}</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="2282" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="0C49A756" w14:textId="77777777" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="00F04EC9" w:rsidP="00943B3B">
+                            <w:pPr>
+                                <w:pStyle w:val="TableParagraph"/>
+                                <w:spacing w:line="240" w:lineRule="auto"/>
+                                <w:ind w:left="0" w:right="0"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                    <w:sz w:val="24"/>
+                                    <w:szCs w:val="24"/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                    <w:sz w:val="24"/>
+                                    <w:szCs w:val="24"/>
+                                </w:rPr>
+                                <w:t>交易日期</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="3766" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="00A5423F" w14:textId="540C8B63" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="007E0A7F" w:rsidP="00943B3B">
+                            <w:pPr>
+                                <w:pStyle w:val="TableParagraph"/>
+                                <w:spacing w:line="240" w:lineRule="auto"/>
+                                <w:ind w:left="0" w:right="0"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                    <w:sz w:val="24"/>
+                                    <w:szCs w:val="24"/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                                    <w:bCs/>
+                                    <w:sz w:val="24"/>
+                                    <w:szCs w:val="24"/>
+                                </w:rPr>
+                                <w:t>${item.tradeDateString}</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                </w:tr>
+                <w:tr w:rsidR="00F0596E" w:rsidRPr="00F0596E" w14:paraId="1C212352" w14:textId="77777777" w:rsidTr="00CA5336">
+                    <w:trPr>
+                        <w:trHeight w:val="341"/>
+                    </w:trPr>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1528" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="7D4EE393" w14:textId="77777777" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="00F04EC9" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                                <w:t>交易到期日</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="6210" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="567D8114" w14:textId="46F3751B" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="007E0A7F" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                                <w:t>${item.maturityDateString}</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="2282" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="27CDADB7" w14:textId="77777777" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="00F04EC9" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                                <w:t>交易标的</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="3766" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="188E09F8" w14:textId="43856E8A" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="007E0A7F" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                                <w:t>${item.underlyingCode}</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                </w:tr>
+                <w:tr w:rsidR="00F0596E" w:rsidRPr="00F0596E" w14:paraId="22A6CB3C" w14:textId="77777777" w:rsidTr="00CA5336">
+                    <w:trPr>
+                        <w:trHeight w:val="342"/>
+                    </w:trPr>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1528" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="3E54CB6B" w14:textId="77777777" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="00F04EC9" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                                <w:t>交易方向</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="6210" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="560C9E6A" w14:textId="78324033" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="007E0A7F" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:proofErr w:type="gramStart"/>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                                <w:t>东证润和资本管理有限公司${item.dzrhBuyOrSellName}</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="2282" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="3D261A7B" w14:textId="77777777" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="00F04EC9" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                                <w:t>交易类型</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="3766" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="79D2AF94" w14:textId="4EE1DA8E" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="007E0A7F" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                                <w:t>${item.optionTypeName}</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                </w:tr>
+                <w:tr w:rsidR="00F0596E" w:rsidRPr="00F0596E" w14:paraId="234C3C6F" w14:textId="77777777" w:rsidTr="00CA5336">
+                    <w:trPr>
+                        <w:trHeight w:val="341"/>
+                    </w:trPr>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1528" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="73CF8A0C" w14:textId="77777777" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="00F04EC9" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                                <w:t>交易数量</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="6210" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="7BEFD29C" w14:textId="0A7F56C6" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="007E0A7F" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                                <w:t>${item.tradeVolumeString}</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="2282" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="3A6FAC60" w14:textId="77777777" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="00F04EC9" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                                <w:t>交易单位</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="3766" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="6934A288" w14:textId="52F39EA5" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="007E0A7F" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                                <w:t>${item.quoteUnit}</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                </w:tr>
+                <w:tr w:rsidR="00F0596E" w:rsidRPr="00F0596E" w14:paraId="43229466" w14:textId="77777777" w:rsidTr="00CA5336">
+                    <w:trPr>
+                        <w:trHeight w:val="341"/>
+                    </w:trPr>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1528" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="3EB73FEC" w14:textId="77777777" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="00F04EC9" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                                <w:t>期初价格</w:t>
+                            </w:r>
+                            <w:proofErr w:type="gramEnd"/>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="6210" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="171C1329" w14:textId="529525ED" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="007E0A7F" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                                <w:t>${item.entryPriceString}</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="2282" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="2B17B7E1" w14:textId="77777777" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="00F04EC9" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                                <w:t>执行价格</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="3766" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="47F5FE1E" w14:textId="58AF27C2" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="007E0A7F" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                                <w:t>${item.strikeString}</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                </w:tr>
+                <w:tr w:rsidR="00F0596E" w:rsidRPr="00F0596E" w14:paraId="4B51A4E3" w14:textId="77777777" w:rsidTr="00CA5336">
+                    <w:trPr>
+                        <w:trHeight w:val="342"/>
+                    </w:trPr>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1528" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="20A3DC2E" w14:textId="77777777" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="00F04EC9" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                                <w:t>单价</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="6210" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="4942A35B" w14:textId="51A5D2AB" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="007E0A7F" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                                <w:t>${item.optionPremiumString}</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="2282" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="1C81C150" w14:textId="77777777" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="00F04EC9" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                                <w:t>名义本金</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="3766" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="38E1D914" w14:textId="07F18CB1" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="007E0A7F" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                                <w:t>${item.notionalPrincipal}</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                </w:tr>
+                <w:tr w:rsidR="004D515A" w:rsidRPr="00F0596E" w14:paraId="7C0DD281" w14:textId="77777777" w:rsidTr="00CA5336">
+                    <w:trPr>
+                        <w:trHeight w:val="341"/>
+                    </w:trPr>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="1528" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="162F8364" w14:textId="77777777" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="00F04EC9" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                                <w:t>费用支付日</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="6210" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="37D04E86" w14:textId="77777777" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="00F04EC9" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            
+                            <w:r>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:hAnsi="楷体" w:eastAsia="楷体"/>
+                                    <w:sz w:val="24"/>
+                                </w:rPr>
+								<w:t>□同交易日期；■提前终止日或期权到期日</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="2282" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="4D613130" w14:textId="77777777" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="00F04EC9" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                                <w:t>总价</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                    <w:tc>
+                        <w:tcPr>
+                            <w:tcW w:w="3766" w:type="dxa"/>
+                            <w:vAlign w:val="center"/>
+                        </w:tcPr>
+                        <w:p w14:paraId="24A8D55B" w14:textId="4A060E5A" w:rsidR="004D515A" w:rsidRPr="005668E5" w:rsidRDefault="00F009E7" w:rsidP="005668E5">
+                            <w:pPr>
+                                <w:pStyle w:val="a3"/>
+                                <w:jc w:val="center"/>
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                            </w:pPr>
+                            <w:r w:rsidRPr="005668E5">
+                                <w:rPr>
+                                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                                    <w:bCs/>
+                                </w:rPr>
+                                <w:t>${item.totalAmount}</w:t>
+                            </w:r>
+                        </w:p>
+                    </w:tc>
+                </w:tr>
+            </w:tbl>
+            <w:p w14:paraId="23CBC3F7" w14:textId="77777777" w:rsidR="003C23C8" w:rsidRPr="00F0596E" w:rsidRDefault="00F009E7" w:rsidP="005668E5">
+                <w:pPr>
+                    <w:pStyle w:val="a3"/>
+                    <w:spacing w:before="18"/>
+                    <w:rPr>
+                        <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                        <w:b/>
+                        <w:sz w:val="16"/>
+                    </w:rPr>
+                </w:pPr>
+            </w:p>
+        </#list>
+
+        <w:p w14:paraId="4614FC61" w14:textId="77777777" w:rsidR="0025569C" w:rsidRPr="00F0596E" w:rsidRDefault="0025569C" w:rsidP="00F0596E">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                    <w:b/>
+                    <w:sz w:val="20"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="26317B2B" w14:textId="77777777" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="004D515A" w:rsidP="00F0596E">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:spacing w:before="15"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:b/>
+                    <w:sz w:val="20"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="534EE016" w14:textId="77777777" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="00F0596E">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:ind w:left="361"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>结算方式：现金结算</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="13F78011" w14:textId="77777777" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="00F0596E">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:spacing w:before="38"/>
+                <w:ind w:left="1562" w:right="4273" w:hanging="1200"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>结算价格：1)</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>远期</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>到期前平仓情形下，结算价格为双方约定的触发平仓指令生效的标的价格。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="7DE5B68F" w14:textId="77777777" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="00984BE7">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:spacing w:before="38"/>
+                <w:ind w:left="1562" w:right="4273"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>2)远期</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>到期结束情形下，结算价格为到期日标的收盘价</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="18F8B803" w14:textId="77777777" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="00F0596E">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:ind w:left="331"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>远期</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>到期收益金额：（</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>远期</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>结算价格-固定价格)*数量</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="7281B7E4" w14:textId="77777777" w:rsidR="002F0D6A" w:rsidRDefault="00F04EC9" w:rsidP="00F0596E">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:spacing w:before="38"/>
+                <w:ind w:left="331" w:right="359"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>支付方向：</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>远期</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>到期收益金额为正值时，</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>远期</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>卖方向远期买方支付该到期收益金额；</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>远期</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>交易到期收益金额为负值时，</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>远期</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>买方向</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>远</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="18B80889" w14:textId="3FD1E66D" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="00F0596E">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:spacing w:before="38"/>
+                <w:ind w:left="331" w:right="359"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>期</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>卖方支付该到期收益金额的绝对值数额。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5353DFCC" w14:textId="0BDAED78" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="0025569C">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:spacing w:before="189"/>
+                <w:ind w:left="361"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>结算流程：交易结束时甲方向乙方发送交易结算单，乙方对其无异议的，甲/乙方应于收到用印结算单后三个工作日内完成资金支付。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="57AAC15C" w14:textId="77777777" w:rsidR="00DE24AD" w:rsidRDefault="00F04EC9" w:rsidP="00F0596E">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:spacing w:before="38"/>
+                <w:ind w:left="364" w:right="4713" w:hanging="2"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>结算账户：参见双方签署的&lt;《中国证券期货市场衍生品交易主协议》补充协议&gt;中约定。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="53BD8906" w14:textId="06A7350C" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="00F0596E">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:spacing w:before="38"/>
+                <w:ind w:left="364" w:right="4713" w:hanging="2"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:b/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                    <w:b/>
+                </w:rPr>
+                <w:t>风险事项：</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="293E84F2" w14:textId="68D4C1B3" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="0025569C">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:spacing w:before="2"/>
+                <w:ind w:left="121" w:right="397" w:firstLine="420"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>"1、场外</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>远期</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>合约标的由甲方根据相关规则选择，</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>乙方仅</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>享有与合约标的价格相关的经济利益或经济损失，并不享有任何作为合约标的持有人具有的权利。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5E7F029E" w14:textId="318E2E9F" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="0025569C">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:spacing w:before="2"/>
+                <w:ind w:left="121" w:right="117" w:firstLine="420"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>2、在</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>远期存</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>续期间出现合约标的停牌时，甲方将停止对应</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>远期</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>的报价；当场外</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>远期</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>交易出现异常波动或者涉嫌违法违规等情形时，甲方有权停止对</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>远期</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>合约的报价。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="499444E9" w14:textId="369F64E0" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="0025569C">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:spacing w:before="3"/>
+                <w:ind w:left="121" w:right="357" w:firstLine="420"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>3、在市场出现</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>剧烈</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>波动时，或合约标的市场交易量不</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>足</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>或者</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>连</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>续出现单</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>边涨跌</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>停价格时，甲方有权</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>拒</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>绝乙方的</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>远期</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>交易指令，且有权提前终止与乙方已达成的</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>远期</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>交易。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="58246C7E" w14:textId="0A157AEF" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="0025569C">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:spacing w:before="2"/>
+                <w:ind w:left="121" w:right="393" w:firstLine="420"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>4、</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>如</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>在到期日当日标的合约发生</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>涨跌</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>停</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>板</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>的情</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>况</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>，甲乙双方</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>可</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>以根据其</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>自身判断</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>并</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>依照诚</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>信</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>原</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>则及商</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>业</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>合理</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>惯例</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>提出将到期日</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:t>顺延</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>到下一交易日，双方协商</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>均</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>同意后方</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>可顺延</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>。</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>如</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>甲乙双方</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>均</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>不提出</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>顺延至</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>下一交易日，或</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>未</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>协商一致，则交易双方以到期日标的合约收盘价</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>进</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>行结算。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0863136A" w14:textId="7519D10D" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="0025569C">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:spacing w:before="3"/>
+                <w:ind w:left="121" w:right="355" w:firstLine="420"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>5、</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>如顺延</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>后的远期到期日标的合约发生</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>涨跌</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>停</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>板</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>情</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>况</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>，</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>自</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:spacing w:val="-18"/>
+                </w:rPr>
+                <w:t xml:space="preserve">动触发 </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>4</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:spacing w:val="-12"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> 条款。该等情</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>况</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>下，</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>如</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>甲乙双方</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>均</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>不提出</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>继</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>续</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>顺延至</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:spacing w:val="-5"/>
+                </w:rPr>
+                <w:t>下一交易</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>日，或</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>未</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>协商一致，则交易双方以</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>实际</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>到期日标的合约收盘价</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>进</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>行结算。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5BEC83BA" w14:textId="77777777" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="00F0596E">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:ind w:left="541"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>6、乙方提前平仓时，若以市价下单平仓，</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>最</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>终成交数量和成交价格以甲方出具的成交数量和成交价格为</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>准</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="1B865595" w14:textId="7A75E2B2" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="0025569C">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:spacing w:before="38"/>
+                <w:ind w:left="121" w:right="371" w:firstLine="420"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>7、乙方在</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>进</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>行</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>远期</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>交易时，应当</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>保</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>证</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>履</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>约</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>保障</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>金的充</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>足</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>。当</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>履</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>约</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>保障</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>金</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>余</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>额不</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>足</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>时，乙方将无法</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>进</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>行相关远期</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>开</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>仓交易，且将</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>面临</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>已</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>开</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>仓合约</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>被强</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>行平仓等风险，由</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>此产</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>生的</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>强</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>行平仓费用、</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>强</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>行平仓的损失等一</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>切</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>费用和损失由乙方</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>承担</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0B8DF4E5" w14:textId="1786B3FD" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="0025569C">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:spacing w:before="3"/>
+                <w:ind w:left="121" w:right="409" w:firstLine="420"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>8、当合约标的发生</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>暂</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>停或终止</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>上</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>市，甲乙双方</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>均</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>有权将本交易的到期日提前</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>至</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>合约标的</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>暂</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>停或终止</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>上</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>市前</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>最</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>后交易日的前一个交易日，当交易一方提出</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>该</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>需求</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>的，交易另一方不</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>得</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>提出异议，本交易于该日到期并行权，或对该等事件</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>作出</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>其</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>他必要调</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>整。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5FF8BEC5" w14:textId="25B3A4FD" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="0025569C">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:spacing w:before="2"/>
+                <w:ind w:left="121" w:right="115" w:firstLine="420"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>9、当发生不</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>可抗</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>力、意外事件、</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>技术故障</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>重大差错</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>、市场</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>操纵</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>等异常情</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>况影响</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>远期交易正常</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>进</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>行时，或者乙方违</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>反</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>相关法律、法规、规</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>章</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>及远期交易规则，甲方有权停止报价</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>服务</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>并对乙方的</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                    <w:sz w:val="22"/>
+                </w:rPr>
+                <w:t>远期</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>交易</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>进</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>行</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>强</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>行平仓并且不</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>承担因此造</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>成的损失。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="06503FE3" w14:textId="4ECA7F33" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="0025569C">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:ind w:left="119" w:firstLine="422"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>10、</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>因</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>不</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>可抗</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>力、意外事件、</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>技术故障</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>重大差错</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>、市场</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>操纵</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>等异常情</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>况</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>，</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>导</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>致合约条款、结算价格、远期结算支付金额、</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>履</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>约</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>保障</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>标</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>准</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>以及其</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>他重要</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>数据发生</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>错误</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>时，甲方有权对相关数据</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>做</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>出</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>必要调</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>整并</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>通知</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>乙方。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="4FAF8AC1" w14:textId="031AC168" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="0025569C">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:spacing w:before="38"/>
+                <w:ind w:left="121" w:right="398" w:firstLine="420"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>11、乙方</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>保</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>证</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>从</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>事相关交易行为合法合</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>规</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>，甲方不</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>因</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>提</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>供</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>本协议下的</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>服务而遭受</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>损</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>害</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>被处罚</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>或</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>承担责</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>任。</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>如</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>发生</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>上</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>述情</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>况</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>，乙方将向甲方支付为应对本协议相关之</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>诉讼</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>监</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>管</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>处罚</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>等</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>而</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>支出的合理费用（</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>包括但</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>不限于律</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>师</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>费、交</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>通</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>费等）。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="033CEE55" w14:textId="5B954A81" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="0025569C">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:ind w:left="119" w:firstLine="422"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>12、甲方在</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>尽</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>商</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>业</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>合理的</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>努</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>力后，</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>仍</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>不</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>能</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>有效对</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>冲</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>相关风险，或对</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>冲</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>成本</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>明显增加</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>，则甲方有权</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>拒</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>绝乙方的交易指令，或</w:t>
+            </w:r>
+            <w:proofErr w:type="gramStart"/>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>作出</w:t>
+            </w:r>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>其</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>他必要调</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>整，</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>此种</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>情形下不构成甲方对乙方的违约。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="538FD86B" w14:textId="793E0784" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="0025569C">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:spacing w:before="38"/>
+                <w:ind w:left="121" w:right="401" w:firstLine="420"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>13、乙方理</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>解</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>并认同，乙方</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>如</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>提前行权（远期类型为</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>可</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>提前行权情</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>况</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>下），行权价格由甲乙双方协商确定，提前行权价格由甲方结合乙方提前行权时间</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>自</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>行确定对应标的盘中价格或</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>近</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>日收盘价为提前行权价。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="506E5AC9" w14:textId="088462FA" w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidRDefault="00F04EC9" w:rsidP="0025569C">
+            <w:pPr>
+                <w:pStyle w:val="a3"/>
+                <w:spacing w:before="2"/>
+                <w:ind w:left="121" w:right="393" w:firstLine="420"/>
+                <w:jc w:val="both"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>14、商品标的结算价以甲方对乙方持仓</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>进</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>行平仓时</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>实际产</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>生的平仓</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>均</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>价为</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>准</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>；若商品标的为外</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>汇产</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>品或涉及</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>汇率转换</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>，由甲方</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>按照</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>市场</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>通</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>用标</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>准</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>确定外</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>汇产</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>品价格或</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>汇率</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>标</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>准</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>，乙方认同甲方在外</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>汇产</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>品价格或</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>汇率</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>标</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>准</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>确定方</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>面</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>的选择权，不</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>因</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>甲方</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>未</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>选择</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>最</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>优时</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>机</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>或价格等方</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>面而</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>向甲方主</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>张</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00F0596E">
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+                <w:t>权益。"</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="75B903CE" w14:textId="77777777" w:rsidR="00FD1549" w:rsidRDefault="00FD1549" w:rsidP="00F0596E">
+            <w:pPr>
+                <w:pStyle w:val="1"/>
+                <w:spacing w:line="240" w:lineRule="auto"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="75B903CE" w14:textId="77777777" w:rsidR="00FD1549" w:rsidRDefault="00FD1549" w:rsidP="00F0596E">
+            <w:pPr>
+                <w:pStyle w:val="1"/>
+                <w:spacing w:line="240" w:lineRule="auto"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="75B903CE" w14:textId="77777777" w:rsidR="00FD1549" w:rsidRDefault="00FD1549" w:rsidP="00F0596E">
+            <w:pPr>
+                <w:pStyle w:val="1"/>
+                <w:spacing w:line="240" w:lineRule="auto"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+    <w:p w14:paraId="10332C1E" w14:textId="77777777" w:rsidR="002331F1" w:rsidRPr="003A2AAA" w:rsidRDefault="003D5D8C" w:rsidP="009E61C1">
+        <w:pPr>
+            <w:spacing w:line="240" w:lineRule="auto"/>
+            <w:ind w:left="10054"/>
+            <w:rPr>
+                <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+            </w:rPr>
+        </w:pPr>
+        <w:r w:rsidRPr="003A2AAA">
+            <w:rPr>
+                <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                <w:b/>
+                <w:sz w:val="24"/>
+            </w:rPr>
+            <w:t>甲方：东证润和资本管理有限公司</w:t>
+        </w:r>
+    </w:p>
+    <w:p w14:paraId="1630459B" w14:textId="77777777" w:rsidR="002331F1" w:rsidRPr="003A2AAA" w:rsidRDefault="003D5D8C" w:rsidP="009E61C1">
+        <w:pPr>
+            <w:spacing w:line="240" />
+            <w:ind w:left="10054"/>
+            <w:rPr>
+                <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                <w:b/>
+                <w:sz w:val="24"/>
+            </w:rPr>
+        </w:pPr>
+        <w:r w:rsidRPr="003A2AAA">
+            <w:rPr>
+                <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                <w:b/>
+                <w:sz w:val="24"/>
+            </w:rPr>
+            <w:t>盖章：</w:t>
+        </w:r>
+    </w:p>
+    <w:p w14:paraId="54EB0274" w14:textId="2AE77731" w:rsidR="002331F1" w:rsidRPr="003A2AAA" w:rsidRDefault="003D5D8C" w:rsidP="009E61C1">
+        <w:pPr>
+            <w:spacing w:line="240" />
+            <w:ind w:left="10054"/>
+            <w:rPr>
+                <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体"/>
+                <w:b/>
+                <w:sz w:val="24"/>
+            </w:rPr>
+        </w:pPr>
+        <w:r w:rsidRPr="003A2AAA">
+            <w:rPr>
+                <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                <w:b/>
+                <w:sz w:val="24"/>
+            </w:rPr>
+            <w:t>日期：</w:t>
+        </w:r>
+        <w:r w:rsidR="003759C1">
+            <w:rPr>
+                <w:rFonts w:ascii="楷体" w:eastAsia="楷体" w:hAnsi="楷体" w:hint="eastAsia"/>
+                <w:b/>
+                <w:sz w:val="24"/>
+            </w:rPr>
+            <w:t>${tradeDateString}</w:t>
+        </w:r>
+    </w:p>
+        <w:sectPr w:rsidR="004D515A" w:rsidRPr="00F0596E" w:rsidSect="00B013B8">
+            <w:headerReference w:type="even" r:id="rId6"/>
+            <w:headerReference w:type="default" r:id="rId7"/>
+            <w:footerReference w:type="even" r:id="rId8"/>
+            <w:footerReference w:type="default" r:id="rId9"/>
+            <w:headerReference w:type="first" r:id="rId10"/>
+            <w:footerReference w:type="first" r:id="rId11"/>
+            <w:pgSz w:w="16840" w:h="10779" w:orient="landscape" w:code="9"/>
+            <w:pgMar w:top="1179" w:right="1077" w:bottom="278" w:left="1321" w:header="1469" w:footer="1469" w:gutter="0"/>
+            <w:cols w:space="720"/>
+        </w:sectPr>
+    </w:body>
+</w:document>

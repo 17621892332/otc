@@ -1,0 +1,23 @@
+server:
+  port: 0
+spring:
+  application:
+    name: marketserver
+  cloud:
+    nacos:
+      config:
+        server-addr: otc-nacos:8848   #配置中心地址
+        file-extension: yaml  #后缀名
+        group: DEFAULT_GROUP      #分组
+        namespace: c4dabaf8-712f-4bba-a4ed-847f515755df  #命名空间的id
+        extension-configs:   #可以读多个配置文件  需要在同一个命名空间下面可以是不同的组
+          - dataId: common.yaml
+            group: DEFAULT_GROUP
+            refresh: true
+          - dataId: marketserver.yaml
+            group: DEFAULT_GROUP
+            refresh: false #不去动态刷新配置文件
+      username: nacos
+      password: nacos
+  profiles:
+    active: local

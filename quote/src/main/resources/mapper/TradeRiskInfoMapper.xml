@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.orient.otc.quote.mapper.TradeRiskInfoMapper">
+    <select id="selectLiveRiskInfo" resultType="org.orient.otc.quote.entity.TradeRiskInfo">
+        SELECT *
+        from
+        trade_risk_info tri
+        inner join (
+        SELECT
+        id,
+        MAX(riskDate) maxDate
+        from
+        trade_risk_info
+        where
+        riskDate &gt;='2023-09-01'
+        <if test='isClose'>
+            and availableVolume=0
+        </if>
+        <if test='underlyingSet!=null and underlyingSet.size()>0'>
+            and underlyingCode  in
+            <foreach item='item' index='index' collection='underlyingSet' open='(' separator=',' close=')'>
+                #{item}
+            </foreach>
+        </if>
+        <if test='riskDate!=null'>
+            and riskDate &lt; #{riskDate}
+        </if>
+        GROUP by id) t on
+        t.id = tri.id
+        and tri.riskDate &gt;='2023-09-01'
+        and t.maxDate = tri.riskDate
+        <if test='isClose'>
+            and availableVolume=0
+        </if>
+        <if test='underlyingSet!=null and underlyingSet.size()>0'>
+            and underlyingCode  in
+            <foreach item='item' index='index' collection='underlyingSet' open='(' separator=',' close=')'>
+                #{item}
+            </foreach>
+        </if>
+        <if test='riskDate!=null'>
+            and riskDate &lt; #{riskDate}
+        </if>
+    </select>
+    <select id="selectPositionByDaily" resultType="org.orient.otc.quote.vo.daily.PositionDailyVO">
+        select tm.id,tm.clientId,tm.tradeCode,tm.tradeDate,tm.maturityDate,tm.buyOrSell,tm.underlyingCode
+        ,tm.optionType,tm.optionCombType,tm.structureType,tm.callOrPut
+        ,tm.margin as initMargin,tso.useMargin,tm.exerciseType,tm.entryPrice,tm.strike
+        ,tm.tradeVolume,tm.notionalPrincipal,tm.totalAmount
+        ,tso.returnRateStructValue, tso.returnRateAnnulized,tso.bonusRateStructValue, tso.bonusRateAnnulized, tso.knockinBarrierValue,tso.knockinBarrierRelative
+        ,tso.knockinBarrierShift,tso.strikeOnceKnockedinValue, tso.strikeOnceKnockedinRelative,tso.strike2OnceKnockedinValue, tso.strike2OnceKnockedinRelative
+        ,tri.riskDate,tri.lastPrice,tri.availableVolume,tri.availableAmount,tri.availablePremium,tri.availableNotionalPrincipal
+        ,tri.margin,tri.nowVol,tri.delta,tri.gamma,tri.theta,tri.vega,tri.rho
+        ,tri.deltaCash,tri.gammaLots,tri.gammaCash,tri.alreadyKnockedIn
+        from
+        trade_risk_info tri
+        inner join trade_mng tm on tm.tradeCode=tri.tradeCode
+        left join trade_snowball_option tso on tm.id =tso.tradeId
+        where tm.isDeleted=0 and tri.isDeleted=0
+        <if test='queryDate!=null'>
+            and tri.riskDate = #{queryDate}
+        </if>
+        <if test='underlyingCodeList!=null and underlyingCodeList.size()>0'>
+            and tri.underlyingCode  in
+            <foreach item='item' index='index' collection='underlyingCodeList' open='(' separator=',' close=')'>
+                #{item}
+            </foreach>
+        </if>
+        <if test='clientIdList!=null and clientIdList.size()>0'>
+            and tri.clientId not in
+            <foreach item='item' index='index' collection='clientIdList' open='(' separator=',' close=')'>
+                #{item}
+            </foreach>
+        </if>
+    </select>
+</mapper>

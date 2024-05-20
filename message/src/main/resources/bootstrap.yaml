@@ -1,0 +1,35 @@
+server:
+  port: 0
+spring:
+  application:
+    name: messageserver
+  cloud:
+    nacos:
+      config:
+        server-addr: otc-nacos:8848   #配置中心地址
+        file-extension: yaml  #后缀名
+        group: DEFAULT_GROUP      #分组
+        namespace: c4dabaf8-712f-4bba-a4ed-847f515755df  #命名空间的id
+        extension-configs:   #可以读多个配置文件  需要在同一个命名空间下面可以是不同的组
+          - dataId: common.yaml
+            group: DEFAULT_GROUP
+            refresh: true
+          - dataId: messageserver.yaml
+            group: DEFAULT_GROUP
+            refresh: false #不去动态刷新配置文件
+      username: nacos
+      password: nacos
+  profiles:
+    active: local
+# 邮件服务器的SMTP地址，可选，默认为smtp.<发件人邮箱后缀>
+host: smtp.exmail.qq.com
+# 邮件服务器的SMTP端口，可选，默认25
+port: 465
+# 发件人（必须正确，否则发送失败）
+from: dzrhotc@orientfutures.com
+# 用户名，默认为发件人邮箱前缀
+user: dzrhotc@orientfutures.com
+# 密码（注意，某些邮箱需要为SMTP服务单独设置授权码，详情查看相关帮助）
+pass: Kfc2020
+# 系统退件使用的发件地址
+systemMail: Postmaster
